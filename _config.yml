@@ -1,0 +1,28 @@
+name: MIKEANDTANE
+favicon: null
+layout_spectrum: 0.5092108601238579
+typography_spectrum: 0.9550752893555909
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9235559434164315
+  lightness: 0.9317598585039377
+  saturation: 0.6603556927293539
+  rhythmicContrast: 0.45003327168524265
+purpose: []
