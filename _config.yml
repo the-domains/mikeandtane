@@ -1,29 +1,41 @@
-name: MIKEANDTANE
-favicon: null
-layout_spectrum: 0.65503
-typography_spectrum: 0.18085
 title: MIKEANDTANE
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5
+  brandStrength: 0.5
+  rhythmicContrast: 0.4500332716852427
   brandColors:
     - '#ffffff'
     - '#006ba3'
     - '#16343e'
     - '#788f75'
     - '#7cbbb3'
-  brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.45003327168524265
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: MIKEANDTANE
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.4569893
+layout_spectrum: 0.65503
